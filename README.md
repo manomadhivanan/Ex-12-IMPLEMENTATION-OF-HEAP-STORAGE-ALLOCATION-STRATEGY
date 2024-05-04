@@ -258,9 +258,9 @@ int main() {
 }
 ```
 # OUTPUT:
-![326755119-59b4bfc8-2d88-4419-9fa8-cdac24b49628](https://github.com/J-Nisha/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/150008724/00fd8f34-c6f3-49b5-a37b-5c2cbb4e79a6)
-![326755595-ec21eacc-e792-443b-9174-4795cc7ccff8](https://github.com/J-Nisha/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/150008724/6a77e296-d2a2-4eab-af74-c496db94ce0b)
-![326756109-7d21f413-26dc-4df6-8bcf-daec73bf3979](https://github.com/J-Nisha/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/150008724/2cb32bae-e54f-42dd-aa25-227a4b19fd30)
+<img width="737" alt="1" src="https://github.com/manomadhivanan/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/115543366/0e5cdcac-1045-4efb-98a1-0a7c7d5a45e9">
+<img width="696" alt="2" src="https://github.com/manomadhivanan/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/115543366/d8086e9b-6911-4777-ab87-19b2dda8c50c">
+<img width="766" alt="3" src="https://github.com/manomadhivanan/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/115543366/5e73ef62-67f0-44c4-bb15-a97549c5b2d8">
 
 # RESULT:
 The heap storage allocation strategy is implemented successfully, and the output is 
